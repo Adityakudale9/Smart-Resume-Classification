@@ -3,4 +3,4 @@ pandas
 numpy
 scikit-learn
 pickle-mixin
-pypdf==3.17.1
+PyPDF2==3.0.1

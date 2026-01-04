@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 import pickle
-from pypdf import PdfReader
+from PyPDF2 import PdfReader
 from docx import Document  # Import python-docx for reading .docx files
 import re
 import streamlit as st
