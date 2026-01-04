@@ -1,0 +1,13 @@
+# OS junk
+.DS_Store
+__MACOSX/
+
+# Streamlit config
+.streamlit/
+
+# Generated folders
+categorized_resumes/
+Resumes/
+
+# Nested folder
+mypro/
